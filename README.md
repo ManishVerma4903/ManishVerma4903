@@ -1,21 +1,486 @@
-# 💫 About Me:
-👨‍💻 Developer | Problem Solver | Tech Explorer<br>💻 Building the web of tomorrow with JavaScript, React<br>🌱 Always learning, always building. From small projects to big dreams.<br>🚀 Let’s create something cool together!<br>
+<!-- = HERO = -->
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manishverma0322/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-verma-56532722a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish8006406786@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManishVerma4903&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManishVerma4903&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishVerma4903&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ManishVerma4903&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=220&section=header&text=Manish%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ManishVerma4903&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+
+<a href="https://github.com/ManishVerma4903">
+<img src="https://img.shields.io/badge/GitHub-ManishVerma4903-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/manish-verma0122/">
+<img src="https://img.shields.io/badge/LinkedIn-Manish%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/ManishVerma4903">
+<img src="https://img.shields.io/badge/LeetCode-376%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ManishVerma4903&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ManishVerma4903?label=FOLLOWERS&style=for-the-badge&color=312e81" alt="GitHub Followers"/>
+
+
+</div>
+
+<!-- = INTRO = -->
+
+
+<h2 align="center">⚡ Building Software That Solves Real Problems</h2>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+%40+Garantie;Next.js+%2B+Laravel+%2B+Flutter;Backend+Engineering+%7C+REST+APIs+%7C+System+Design;376%2B+LeetCode+Problems+Solved;Always+Learning.+Always+Building." alt="Typing SVG"/>
+</p>
+
+
+<p align="center">
+I'm a <b>Software Engineer at Garantie</b> who enjoys turning real-world business requirements into
+production-ready software. My work spans <b>frontend, backend APIs, databases, automation, and mobile applications</b>.
+</p>
+
+
+<!-- = QUICK FACTS = -->
+
+
+<h2 align="center">👨‍💻 Developer Snapshot</h2>
+
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+<h3>💼</h3>
+<b>Software Engineer</b><br/>
+Garantie
+</td>
+<td align="center" width="180">
+<h3>🚀</h3>
+<b>Full-Stack</b><br/>
+Next.js + Laravel
+</td>
+<td align="center" width="180">
+<h3>🧠</h3>
+<b>376+</b><br/>
+LeetCode Problems
+</td>
+<td align="center" width="180">
+<h3>📱</h3>
+<b>Mobile</b><br/>
+Flutter
+</td>
+<td align="center" width="180">
+<h3>⚙️</h3>
+<b>Focus</b><br/>
+Backend + System Design
+</td>
+</tr>
+</table>
+
+
+<!-- = TECH STACK = -->
+
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,react,nextjs,tailwind,laravel,nodejs,flutter,dart,mongodb,postgres,mysql,git,github,aws&perline=9&theme=dark" alt="Tech Stack"/>
+</p>
+
+
+<h3 align="center">What I Work With</h3>
+
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+
+🎨 Frontend
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+- HTML / CSS
+- Framer Motion
+
+</td>
+<td width="50%" valign="top">
+
+
+⚙️ Backend
+- Laravel
+- PHP
+- Node.js
+- REST APIs
+- Authentication & Validation
+- Background Jobs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+🗄️ Data & Infrastructure
+- SQL
+- PostgreSQL / MySQL
+- MongoDB
+- AWS
+- Git & GitHub
+- API integrations
+
+</td>
+<td width="50%" valign="top">
+
+
+📱 Mobile & AI
+- Flutter
+- Dart
+- Firebase
+- Gemini API
+- AI-powered developer tools
+- API-driven applications
+
+</td>
+</tr>
+</table>
+
+
+<!-- = WHAT I BUILD = -->
+
+
+<h2 align="center">🔥 What I Build</h2>
+
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+
+🌐 Web Applications
+
+Production-ready dashboards, admin portals, business workflows and responsive interfaces.
+
+</td>
+<td width="33%" align="center">
+
+
+⚙️ Backend Systems
+
+REST APIs, validation, database workflows, background processing and automation.
+
+</td>
+<td width="33%" align="center">
+
+
+📱 Mobile Apps
+
+Cross-platform Flutter applications with API integrations and production workflows.
+
+</td>
+</tr>
+</table>
+
+
+<!-- = PROFESSIONAL EXPERIENCE = -->
+
+
+<h2 align="center">💼 Professional Engineering</h2>
+
+
+<p align="center">
+At <b>Garantie</b>, I work across the application stack and build software around real business workflows.
+</p>
+
+
+<table align="center">
+<tr>
+<td>
+
+
+🏗️ Next.js Admin Portals
+
+Building business-facing applications with reusable components, API integration, filtering, pagination and data-heavy workflows.
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+⚙️ Laravel APIs
+
+Developing backend APIs, validation, business rules, database operations and service-level workflows.
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+📦 Bulk Data Automation
+
+Built CSV-based bulk processing workflows that validate uploaded data, transform client-specific payloads, process records in the background and expose progress to the frontend.
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+🔄 Background Processing
+
+Working with asynchronous processing and status tracking for long-running operations instead of blocking the user-facing request.
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+☁️ Cloud & Deployment
+
+Experience working with AWS-based environments and production deployment workflows.
+
+</td>
+</tr>
+</table>
+
+
+<!-- = FEATURED PROJECTS = -->
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+
+<h3>🤖 AI Code Reviewer</h3>
+
+
+An AI-powered developer tool that analyzes source code and provides intelligent code-review feedback.
+
+<b>Stack</b><br/> 
+Gemini API • JavaScript • Next.js
+
+</td>
+
+
+<td width="50%" valign="top">
+
+
+<h3>🌐 Personal Developer Portfolio</h3>
+
+
+A modern portfolio built with Next.js, using developer APIs and animations to showcase projects, coding activity and personal work.
+
+<b>Stack</b><br/> 
+Next.js • React • LeetCode API • Spotify API • Framer Motion
+
+</td>
+</tr>
+</table>
+
+
+<!-- = DSA = -->
+
+
+<h2 align="center">🧠 Problem Solving</h2>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-376%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+
+<p align="center">
+I use <b>Java</b> for DSA practice and continuously work on improving my problem-solving,
+algorithmic thinking and interview readiness.
+</p>
+
+
+<p align="center">
+<a href="https://leetcode.com/ManishVerma4903">
+<img src="https://img.shields.io/badge/→%20View%20My%20LeetCode%20Profile-111827?style=for-the-badge"/>
+</a>
+</p>
+
+<!-- = CURRENTLY LEARNING = -->
+
+
+<h2 align="center">📚 Currently Leveling Up</h2>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Architecture-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API%20Design-1e293b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-312e81?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Design-3730a3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scalable%20Systems-0369a1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-075985?style=for-the-badge"/>
+</p>
+
+
+                 ┌───────────────────────┐
+                 │   Software Engineer   │
+                 └───────────┬───────────┘
+                             │
+                ┌────────────┴────────────┐
+                │                         │
+         ┌──────▼──────┐           ┌──────▼──────┐
+         │  Full Stack │           │   Backend    │
+         │ Development │           │  Engineering │
+         └──────┬──────┘           └──────┬──────┘
+                │                         │
+         ┌──────▼──────┐           ┌──────▼──────┐
+         │  Next.js +  │           │ APIs + DB +  │
+         │   Flutter   │           │ Architecture │
+         └─────────────┘           └──────┬───────┘
+                                         │
+                                  ┌──────▼───────┐
+                                  │ System Design│
+                                  └──────────────┘
+
+
+<!-- = GITHUB STATS = -->
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+
+
+<img src="https://github-stats-extended.vercel.app/api?username=ManishVerma4903&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+
+
+</td>
+<td width="50%" align="center">
+
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ManishVerma4903&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+
+
+</td>
+</tr>
+</table>
+
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishVerma4903&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+
+
+</td>
+<td width="50%" align="center">
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManishVerma4903&theme=tokyonight" alt="GitHub Overview" width="100%"/>
+
+
+</td>
+</tr>
+</table>
+
+
+<!-- = CONTRIBUTIONS = -->
+
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManishVerma4903&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution Activity" width="100%"/>
+</p>
+
+
+<!-- = TROPHIES = -->
+
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishVerma4903&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+
+<!-- = GOALS = -->
+
+
+<h2 align="center">🎯 2026 Goals</h2>
+
+
+<table align="center">
+<tr>
+<td>
+
+
+- ⬜ Become stronger in backend architecture
+- ⬜ Improve Laravel & REST API design
+- ⬜ Master System Design fundamentals
+- ⬜ Cross 400+ DSA problems
+- ⬜ Build more production-grade projects
+- ⬜ Explore AI-powered developer tools
+- ⬜ Contribute more to open source
+
+</td>
+</tr>
+</table>
+
+
+<!-- = CONNECT = -->
+
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+
+<p align="center">
+
+
+<a href="https://github.com/ManishVerma4903">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/manish-verma0122/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="https://leetcode.com/ManishVerma4903">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+
+</p>
+
+
+<p align="center">
+
+
+💬 <i>"Build. Break. Learn. Improve. Repeat."</i>
+
+<br/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:312e81,100:0f172a&height=120&section=footer" width="100%"/>
+
+
+</p>
